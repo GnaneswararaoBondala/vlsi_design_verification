@@ -1,0 +1,180 @@
+# Compile of practice.v failed with 1 errors.
+# Compile of practice.v failed with 1 errors.
+# Compile of practice.v was successful.
+# Compile of practice.v failed with 2 errors.
+# Compile of practice.v failed with 1 errors.
+# Compile of practice.v was successful.
+vsim -gui work.tb1
+# vsim -gui work.tb1 
+# Start time: 09:38:44 on Jun 19,2025
+# Loading work.tb1
+# Loading work.fivebitast
+# Loading work.tff
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'q'.
+#    Time: 0 ps  Iteration: 0  Instance: /tb1/uut/t1 File: C:/work/Verilog/practice.v Line: 3
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'q'.
+#    Time: 0 ps  Iteration: 0  Instance: /tb1/uut/t2 File: C:/work/Verilog/practice.v Line: 4
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'q'.
+#    Time: 0 ps  Iteration: 0  Instance: /tb1/uut/t3 File: C:/work/Verilog/practice.v Line: 5
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'q'.
+#    Time: 0 ps  Iteration: 0  Instance: /tb1/uut/t4 File: C:/work/Verilog/practice.v Line: 6
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'q'.
+#    Time: 0 ps  Iteration: 0  Instance: /tb1/uut/t5 File: C:/work/Verilog/practice.v Line: 7
+# Error loading design
+# End time: 09:38:44 on Jun 19,2025, Elapsed time: 0:00:00
+# Errors: 5, Warnings: 7
+# Compile of practice.v was successful.
+vsim -gui work.tb1
+# vsim -gui work.tb1 
+# Start time: 09:39:53 on Jun 19,2025
+# Loading work.tb1
+# Loading work.fivebitast
+# Loading work.tff
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'q'.
+#    Time: 0 ps  Iteration: 0  Instance: /tb1/uut/t1 File: C:/work/Verilog/practice.v Line: 3
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'q'.
+#    Time: 0 ps  Iteration: 0  Instance: /tb1/uut/t2 File: C:/work/Verilog/practice.v Line: 4
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'q'.
+#    Time: 0 ps  Iteration: 0  Instance: /tb1/uut/t3 File: C:/work/Verilog/practice.v Line: 5
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'q'.
+#    Time: 0 ps  Iteration: 0  Instance: /tb1/uut/t4 File: C:/work/Verilog/practice.v Line: 6
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'q'.
+#    Time: 0 ps  Iteration: 0  Instance: /tb1/uut/t5 File: C:/work/Verilog/practice.v Line: 7
+# Error loading design
+# End time: 09:39:53 on Jun 19,2025, Elapsed time: 0:00:00
+# Errors: 5, Warnings: 2
+# Compile of practice.v was successful.
+vsim -gui work.tb1
+# vsim -gui work.tb1 
+# Start time: 09:41:09 on Jun 19,2025
+# Loading work.tb1
+# Loading work.fivebitast
+# Loading work.tff
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'q'.
+#    Time: 0 ps  Iteration: 0  Instance: /tb1/uut/t1 File: C:/work/Verilog/practice.v Line: 3
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'q'.
+#    Time: 0 ps  Iteration: 0  Instance: /tb1/uut/t2 File: C:/work/Verilog/practice.v Line: 4
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'q'.
+#    Time: 0 ps  Iteration: 0  Instance: /tb1/uut/t3 File: C:/work/Verilog/practice.v Line: 5
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'q'.
+#    Time: 0 ps  Iteration: 0  Instance: /tb1/uut/t4 File: C:/work/Verilog/practice.v Line: 6
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'q'.
+#    Time: 0 ps  Iteration: 0  Instance: /tb1/uut/t5 File: C:/work/Verilog/practice.v Line: 7
+# Error loading design
+# End time: 09:41:09 on Jun 19,2025, Elapsed time: 0:00:00
+# Errors: 5, Warnings: 2
+# Compile of practice.v was successful.
+vsim -gui work.fivebitast
+# vsim -gui work.fivebitast 
+# Start time: 09:47:31 on Jun 19,2025
+# Loading work.fivebitast
+# Loading work.tff
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'q'.
+#    Time: 0 ps  Iteration: 0  Instance: /fivebitast/t1 File: C:/work/Verilog/practice.v Line: 3
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'q'.
+#    Time: 0 ps  Iteration: 0  Instance: /fivebitast/t2 File: C:/work/Verilog/practice.v Line: 4
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'q'.
+#    Time: 0 ps  Iteration: 0  Instance: /fivebitast/t3 File: C:/work/Verilog/practice.v Line: 5
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'q'.
+#    Time: 0 ps  Iteration: 0  Instance: /fivebitast/t4 File: C:/work/Verilog/practice.v Line: 6
+# ** Error (suppressible): (vsim-3053) Illegal output or inout port connection for port 'q'.
+#    Time: 0 ps  Iteration: 0  Instance: /fivebitast/t5 File: C:/work/Verilog/practice.v Line: 7
+# Error loading design
+# End time: 09:47:32 on Jun 19,2025, Elapsed time: 0:00:01
+# Errors: 5, Warnings: 2
+# Compile of practice.v was successful.
+vsim -gui work.fivebitast
+# vsim -gui work.fivebitast 
+# Start time: 09:48:26 on Jun 19,2025
+# Loading work.fivebitast
+# Loading work.tff
+run
+run
+run
+run
+run
+run
+run
+run
+# WARNING: No extended dataflow license exists
+run
+run
+run
+quit -sim
+# End time: 09:53:23 on Jun 19,2025, Elapsed time: 0:04:57
+# Errors: 0, Warnings: 2
+# Compile of practice.v was successful.
+vsim -gui work.tb1
+# vsim -gui work.tb1 
+# Start time: 09:53:49 on Jun 19,2025
+# Loading work.tb1
+# Loading work.fivebitast
+# Loading work.tff
+run
+run
+run
+quit -sim4
+# unknown switch: -sim4
+quit -sim
+# End time: 09:55:00 on Jun 19,2025, Elapsed time: 0:01:11
+# Errors: 0, Warnings: 3
+# Compile of practice.v was successful.
+vsim -gui work.tb1
+# vsim -gui work.tb1 
+# Start time: 09:55:34 on Jun 19,2025
+# Loading work.tb1
+# Loading work.fivebitast
+# Loading work.tff
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+# End time: 09:56:29 on Jun 19,2025, Elapsed time: 0:00:55
+# Errors: 0, Warnings: 2
+# Compile of practice.v was successful.
+vsim -gui work.tb1
+# vsim -gui work.tb1 
+# Start time: 09:57:45 on Jun 19,2025
+# Loading work.tb1
+# Loading work.fivebitast
+# Loading work.tff
+run
+run
+run
+run
+run
+run
+run
+quit -sim
+# End time: 09:58:43 on Jun 19,2025, Elapsed time: 0:00:58
+# Errors: 0, Warnings: 2
